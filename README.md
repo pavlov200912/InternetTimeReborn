@@ -6,3 +6,5 @@ Main point is rewriting of old app to Kotlin.
 Usefull links: 
 
 https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/#2  Here RecyclerView + DBRoom + Kour.
+
+Google Sample of working with DB: https://github.com/googlesamples/android-architecture-components
